@@ -5,6 +5,8 @@ out
 gen
 # node modules
 node_modules
-# yarn lock
+# lockfiles
 yarn.lock
+package-lock.json
+
 
